@@ -7,7 +7,7 @@ from scratch, which was then trained on the XOR logic gate.
 
 ### Description
 
-Matrix math and manipulation was handeled by Numpy, and the dataset was handeled with Pandas.
+Matrix math and manipulation was handeled by Numpy, and the dataset was handled with Pandas.
 
 
 
